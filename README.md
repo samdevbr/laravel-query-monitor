@@ -1,3 +1,7 @@
+# THIS IS JUST A FORK OF [THIS PACKAGE](https://github.com/supliu/laravel-query-monitor)
+
+# THIS FORK JUST ENABLES THE PACKAGE TO ALLOW PHP 8
+
 # Laravel Query Monitor
 [![Travis](https://travis-ci.org/supliu/laravel-query-monitor.svg?branch=master)](https://travis-ci.org/supliu/laravel-query-monitor)
 ![Packagist Downloads](https://img.shields.io/packagist/dt/supliu/laravel-query-monitor)
